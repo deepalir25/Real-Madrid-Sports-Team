@@ -11,7 +11,7 @@ University of South Florida
 The website provides:
 - A homepage introducing the Real Madrid theme
 - An About page with developer info
-- A mock player management form (CRUD)
+- A mock match management form (CRUD)
 - A data analytics page using Chart.js
 
 ## Technologies Used
