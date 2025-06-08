@@ -1,6 +1,6 @@
 # Real Madrid Fan Hub
 
-This is a basic static website created as part of a university assignment on Web Interface Technologies.
+This is a basic static website created as part of a university assignment.
 
 ## Developer
 Deepali Rajput  
