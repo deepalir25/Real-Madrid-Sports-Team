@@ -1,0 +1,126 @@
+
+body {
+    background: linear-gradient(to right, #ffffff, #e6e6ff);
+    font-family: 'Segoe UI', sans-serif;
+    color: #333;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .navbar {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  
+  header {
+    background: #f5f5ff;
+    border-bottom: 3px solid #002f6c;
+  }
+  
+  .img-fluid {
+    border-radius: 10px;
+    transition: transform 0.3s;
+  }
+  
+  .img-fluid:hover {
+    transform: scale(1.05);
+  }
+  
+  button:hover {
+    background-color: #002f6c;
+    color: white;
+  }
+  
+  .fun-effect {
+    animation: fadein 2s;
+  }
+  
+  @keyframes fadein {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+  
+ 
+  .chart-container {
+    margin: 30px auto;
+    padding: 20px;
+    background: rgba(0, 0, 0, 0.05);
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    max-width: 600px;
+  }
+  
+  canvas {
+    margin: 20px auto;
+    max-width: 100%;
+  }
+  
+  .btn-refresh {
+    margin-top: 20px;
+    background-color: #3498db;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .btn-refresh:hover {
+    background-color: #2980b9;
+  }
+  
+
+  h2 {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  form {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  
+  form input,
+  form button {
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+  
+  form button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  form button:hover {
+    background-color: #0056b3;
+  }
+  
+  table {
+    margin-top: 20px;
+  }
+  
+  .btn-edit,
+  .btn-delete {
+    margin-right: 5px;
+  }
+
+  .about-photo {
+    display: block;
+    margin: 20px auto;
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  .about-container {
+    text-align: center;}
