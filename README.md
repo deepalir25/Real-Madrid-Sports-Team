@@ -1,25 +1,24 @@
-Real-Madrid-Web-Page
-This is a basic static website created as part of a university assignment.
+# Real Madrid Fan Hub
 
-Developer
-Deepali Rajput
-Dual Master's student in AI & Business Analytics and Marketing
+This is a basic static website created as part of a university assignment on Web Interface Technologies.
+
+## Developer
+Deepali Rajput  
+Dual Master's student in AI & Business Analytics and Marketing  
 University of South Florida
 
-Description
+## Description
 The website provides:
+- A homepage introducing the Real Madrid theme
+- An About page with developer info
+- A mock player management form (CRUD)
+- A data analytics page using Chart.js
 
-A homepage introducing the Real Madrid theme
-An About page with developer info
-A mock teamx management form (CRUD)
-A data analytics page using Chart.js
+## Technologies Used
+- HTML  
+- CSS  
+- JavaScript  
+- Chart.js
 
-
-Technologies Used
-HTML
-CSS
-JavaScript
-Chart.js
-
-How to Use
-Download or clone the repository and open index.html in a web browser.
+## How to Use
+Download or clone the repository and open `index.html` in a web browser.
